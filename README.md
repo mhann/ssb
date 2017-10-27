@@ -1,0 +1,2 @@
+# ssb
+Simple Site Blocker
